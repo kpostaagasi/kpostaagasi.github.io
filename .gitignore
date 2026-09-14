@@ -1,0 +1,10 @@
+# Her şeyi yok say, sadece siteyi oluşturan dosyaları izle.
+*
+
+!.gitignore
+!index.html
+!style.css
+!script.js
+!content-tr.json
+!content-en.json
+!README.md

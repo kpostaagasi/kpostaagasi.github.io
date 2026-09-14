@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Kamil Postaağası",
+    "description": "Kamil Postaağası — Boğaziçi Üniversitesi Uluslararası Ticaret ve Yönetim Bilişim Sistemleri öğrencisi, BV Portföy'de fon yönetimi stajyeri.",
+    "navLabel": "Profil bağlantıları",
+    "moreLabel": "Devamı",
+    "lessLabel": "Kapat"
+  },
+  "name": "Kamil Postaağası",
+  "links": [
+    { "label": "LinkedIn", "href": "https://www.linkedin.com/in/kpostaagasi" },
+    { "label": "GitHub", "href": "https://github.com/kpostaagasi" },
+    { "label": "E-posta", "href": "mailto:kamilpostaagasi@gmail.com" }
+  ],
+  "intro": "Kamil Postaağası, Boğaziçi Üniversitesi'nde Uluslararası Ticaret ve Yönetim Bilişim Sistemleri çift ana dal öğrencisi ve BV Portföy Yönetimi A.Ş.'de fon yönetimi stajyeri. Fon ve emsal grup performans analizi, sabit getirili ürünler ve temel analiz üzerine çalışıyor; analizleri besleyen veri hatlarını Python ile kendisi kuruyor.",
+  "bio": [
+    "BV Portföy'de firmanın fonlarını (RUT, BVV, BTK, MTD, BV1) TEFAS kategori emsalleriyle pozisyon bazında karşılaştıran rakip analizi setini hazırlıyor. Bunu besleyen Python veri hattını da kendisi geliştirdi: KAP API veri çekimi, portföy dağılım raporlarının ayrıştırılması, hisse kodu normalizasyonu ve otomatik doğrulama. Portföy ağırlıkları raporlardaki yüzdeler yerine pozisyon değeri / toplam fon büyüklüğü ile bağımsız hesaplanıyor.",
+    "Öncesinde Türkiye Varlık Fonu'nda Uluslararası Sermaye Piyasaları ve Proje Finansmanı stajyeri olarak çalıştı; Eurobond spread analizleri yaptı ve sürdürülebilir borçlanma üzerine, PIF'in 2025 euro yeşil tahvili ile Xylem'in 2026 senior mavi tahvilini birincil ihraç dokümanları üzerinden inceleyen bir araştırma projesi hazırladı. Daha önce Kayseri'de, 50'den fazla ülkeye ihracat yapan Serhat Mobilya'da ihracat asistanı stajyeri olarak görev aldı.",
+    "Şu anda yatırım ekibi için TCMB EVDS verileriyle beslenen bir makro ve BIST veri dashboard'u geliştiriyor ve SPK Sermaye Piyasası Faaliyetleri Düzey 3 lisanslama sınavlarına hazırlanıyor. İlgi alanları portföy yönetimi, sabit getirili ürünler, temel analiz, fintech ve LLM tabanlı iş akışı otomasyonu."
+  ],
+  "sections": [
+    {
+      "id": "deneyim",
+      "heading": "Deneyim",
+      "items": [
+        {
+          "title": "BV Portföy Yönetimi A.Ş.",
+          "subtitle": "Fon Yönetimi Stajyeri · İstanbul",
+          "date": "Ağu 2026 – Halen"
+        },
+        {
+          "title": "Türkiye Varlık Fonu (TVF)",
+          "subtitle": "Uluslararası Sermaye Piyasaları ve Proje Finansmanı Stajyeri · İstanbul",
+          "date": "Tem 2026 – Ağu 2026"
+        },
+        {
+          "title": "Serhat Mobilya A.Ş.",
+          "subtitle": "İhracat Asistanı Stajyeri · Kayseri",
+          "date": "Tem 2024 – Ağu 2024"
+        }
+      ]
+    },
+    {
+      "id": "egitim",
+      "heading": "Eğitim",
+      "items": [
+        {
+          "title": "Boğaziçi Üniversitesi",
+          "subtitle": "Uluslararası Ticaret (ana dal) & Yönetim Bilişim Sistemleri (çift ana dal)",
+          "date": "Eyl 2023 – Haz 2028"
+        }
+      ]
+    },
+    {
+      "id": "projeler",
+      "heading": "Projeler",
+      "items": [
+        {
+          "title": "Türkiye Makro ve BIST Veri Dashboard'u",
+          "subtitle": "Şirket içi araç, BV Portföy · TCMB EVDS API",
+          "date": "Ağu 2026 – Halen"
+        },
+        {
+          "title": "Uluslararası Sermaye Piyasalarında Sürdürülebilir Borçlanma Trendleri",
+          "subtitle": "Staj araştırma projesi, Türkiye Varlık Fonu · yeşil ve mavi tahvil vaka çalışmaları",
+          "date": "Tem 2026 – Ağu 2026"
+        }
+      ]
+    },
+    {
+      "id": "sertifikalar",
+      "heading": "Lisans ve Sertifikalar",
+      "items": [
+        {
+          "title": "SPK Sermaye Piyasası Faaliyetleri Düzey 3",
+          "subtitle": "Lisanslama sınavları",
+          "date": "Devam ediyor"
+        },
+        { "title": "TSKB, Geleceğin Finansı Akademisi", "date": "2026" },
+        { "title": "McKinsey & Company, McKinsey Forward Programı" },
+        { "title": "Sabancı Üniversitesi, CEF Finans Programı" },
+        { "title": "Yetkin Gençler, YetGen 21. Yüzyıl Becerileri Programı" }
+      ]
+    },
+    {
+      "id": "yetkinlikler",
+      "heading": "Yetkinlikler",
+      "items": [
+        {
+          "title": "Finans ve Piyasalar",
+          "subtitle": "Fon ve emsal grup performans analizi, portföy dağılımı analizi, Eurobond ve kredi spread analizi, sabit getirili ürünler, sürdürülebilir borçlanma, temel ve finansal tablo analizi, değerleme"
+        },
+        {
+          "title": "Veri ve Teknoloji",
+          "subtitle": "Excel (PivotTable, arama fonksiyonları), Python (pandas, otomasyon), finansal veri API'leri (KAP, TEFAS, TCMB EVDS), JavaScript, HTML/CSS, temel SQL, Git/GitHub, yapay zeka araçları (LLM API'leri, MCP)"
+        },
+        {
+          "title": "Araştırma ve İletişim",
+          "subtitle": "Birincil doküman incelemesi, piyasa takibi, yapılandırılmış araştırma, veri doğrulama ve denetim disiplini, finansal sunum ve raporlama"
+        }
+      ]
+    },
+    {
+      "id": "diller",
+      "heading": "Diller",
+      "items": [
+        { "title": "Türkçe", "date": "Ana dil" },
+        { "title": "İngilizce", "date": "İleri düzey / C1" },
+        { "title": "İspanyolca", "date": "Orta öncesi / A2–B1" }
+      ]
+    },
+    {
+      "id": "yazilar",
+      "heading": "Yazılar",
+      "items": []
+    }
+  ]
+}

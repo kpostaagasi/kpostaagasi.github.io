@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Kamil Postaağası",
+    "description": "Kamil Postaağası — International Trade and Management Information Systems student at Boğaziçi University, fund management intern at BV Portföy.",
+    "navLabel": "Profile links",
+    "moreLabel": "More",
+    "lessLabel": "Less"
+  },
+  "name": "Kamil Postaağası",
+  "links": [
+    { "label": "LinkedIn", "href": "https://www.linkedin.com/in/kpostaagasi" },
+    { "label": "GitHub", "href": "https://github.com/kpostaagasi" },
+    { "label": "Email", "href": "mailto:kamilpostaagasi@gmail.com" }
+  ],
+  "intro": "Kamil Postaağası is an International Trade and Management Information Systems double major at Boğaziçi University and a fund management intern at BV Portföy Yönetimi A.Ş. He works on fund and peer-group performance analysis, fixed income, and fundamental analysis, and builds the Python data pipelines behind that work himself.",
+  "bio": [
+    "At BV Portföy he builds competitive analysis workbooks that benchmark the firm's funds (RUT, BVV, BTK, MTD, BV1) against their TEFAS category peers at position level. He also developed the Python pipeline behind them: KAP API extraction, portfolio allocation report parsing, ticker normalization, and automated audit. Portfolio weights are recomputed independently as position value over total fund size rather than taken from reported percentages.",
+    "Previously he was an International Capital Markets and Project Finance intern at the Türkiye Wealth Fund, where he ran Eurobond spread analysis and prepared a research project on sustainable debt, examining PIF's 2025 euro green bond and Xylem's 2026 senior blue notes through primary offering documents. Before that he worked in Kayseri as an export assistant intern at Serhat Mobilya, a furniture exporter serving more than 50 countries.",
+    "He is currently building a macro and BIST data dashboard for the investment team, sourced from the TCMB EVDS API, and preparing for the SPL Capital Market Activities Level 3 licensing examinations. His interests are portfolio management, fixed income, fundamental analysis, fintech, and LLM-based workflow automation."
+  ],
+  "sections": [
+    {
+      "id": "experience",
+      "heading": "Experience",
+      "items": [
+        {
+          "title": "BV Portföy Yönetimi A.Ş.",
+          "subtitle": "Fund Management Intern · Istanbul",
+          "date": "Aug 2026 – Present"
+        },
+        {
+          "title": "Türkiye Wealth Fund (TVF)",
+          "subtitle": "International Capital Markets & Project Finance Intern · Istanbul",
+          "date": "Jul 2026 – Aug 2026"
+        },
+        {
+          "title": "Serhat Mobilya A.Ş.",
+          "subtitle": "Export Assistant Intern · Kayseri",
+          "date": "Jul 2024 – Aug 2024"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "heading": "Education",
+      "items": [
+        {
+          "title": "Boğaziçi University",
+          "subtitle": "B.A. International Trade (major) & Management Information Systems (double major)",
+          "date": "Sep 2023 – Jun 2028"
+        }
+      ]
+    },
+    {
+      "id": "projects",
+      "heading": "Projects",
+      "items": [
+        {
+          "title": "Türkiye Macro & BIST Data Dashboard",
+          "subtitle": "Internal tool, BV Portföy · TCMB EVDS API",
+          "date": "Aug 2026 – Present"
+        },
+        {
+          "title": "Sustainable Debt Trends in International Capital Markets",
+          "subtitle": "Internship research project, Türkiye Wealth Fund · green and blue bond case studies",
+          "date": "Jul 2026 – Aug 2026"
+        }
+      ]
+    },
+    {
+      "id": "certifications",
+      "heading": "Licensing & Certifications",
+      "items": [
+        {
+          "title": "SPL Capital Market Activities Level 3",
+          "subtitle": "Licensing examinations",
+          "date": "In progress"
+        },
+        { "title": "TSKB, Geleceğin Finansı Akademisi", "date": "2026" },
+        { "title": "McKinsey & Company, McKinsey Forward Program" },
+        { "title": "Sabancı University, CEF Finance Program" },
+        { "title": "Yetkin Gençler, YetGen 21st Century Skills Program" }
+      ]
+    },
+    {
+      "id": "skills",
+      "heading": "Skills",
+      "items": [
+        {
+          "title": "Finance & Markets",
+          "subtitle": "Fund and peer-group performance analysis, portfolio holdings analysis, Eurobond and credit spread analysis, fixed income, sustainable debt, fundamental and financial statement analysis, valuation"
+        },
+        {
+          "title": "Data & Technology",
+          "subtitle": "Excel (PivotTables, lookups), Python (pandas, automation), financial data APIs (KAP, TEFAS, TCMB EVDS), JavaScript, HTML/CSS, basic SQL, Git/GitHub, AI tools (LLM APIs, MCP)"
+        },
+        {
+          "title": "Research & Communication",
+          "subtitle": "Primary-document review, market monitoring, structured research, data validation and audit discipline, financial presentations and reporting"
+        }
+      ]
+    },
+    {
+      "id": "languages",
+      "heading": "Languages",
+      "items": [
+        { "title": "Turkish", "date": "Native" },
+        { "title": "English", "date": "Advanced / C1" },
+        { "title": "Spanish", "date": "Pre-intermediate / A2–B1" }
+      ]
+    },
+    {
+      "id": "writing",
+      "heading": "Writing",
+      "items": []
+    }
+  ]
+}

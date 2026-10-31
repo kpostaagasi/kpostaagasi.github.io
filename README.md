@@ -1,5 +1,7 @@
 # kpostaagasi.github.io
 
+**[Siteyi aç](https://kpostaagasi.github.io/)**
+
 Tek sayfalık kişisel CV / landing sitesi. Bağımlılık yok, build adımı yok: `index.html`, `style.css`, `script.js` ve iki içerik dosyası.
 
 ```
